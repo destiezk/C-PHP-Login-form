@@ -27,7 +27,7 @@ namespace Loop_V2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            WebRequest request = WebRequest.Create("http://3tcheats.xyz/testing/check.php?username=" + textBox1.Text + "&password=" + textBox2.Text);
+            WebRequest request = WebRequest.Create("http://modify-this.com/check.php?username=" + textBox1.Text + "&password=" + textBox2.Text);
             HttpWebResponse response = (HttpWebResponse)request.GetResponse();
 
             Stream data = response.GetResponseStream();
