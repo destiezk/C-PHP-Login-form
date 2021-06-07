@@ -1,0 +1,11 @@
+E:\VS\Loader\Loop V2\Loop V2\bin\Debug\Loop V2.exe.config
+E:\VS\Loader\Loop V2\Loop V2\bin\Debug\Loop V2.exe
+E:\VS\Loader\Loop V2\Loop V2\bin\Debug\Loop V2.pdb
+E:\VS\Loader\Loop V2\Loop V2\obj\Debug\Loop V2.csprojAssemblyReference.cache
+E:\VS\Loader\Loop V2\Loop V2\obj\Debug\Loop_V2.Form1.resources
+E:\VS\Loader\Loop V2\Loop V2\obj\Debug\Loop_V2.Form2.resources
+E:\VS\Loader\Loop V2\Loop V2\obj\Debug\Loop_V2.Properties.Resources.resources
+E:\VS\Loader\Loop V2\Loop V2\obj\Debug\Loop V2.csproj.GenerateResource.cache
+E:\VS\Loader\Loop V2\Loop V2\obj\Debug\Loop V2.csproj.CoreCompileInputs.cache
+E:\VS\Loader\Loop V2\Loop V2\obj\Debug\Loop V2.exe
+E:\VS\Loader\Loop V2\Loop V2\obj\Debug\Loop V2.pdb
