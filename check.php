@@ -8,6 +8,8 @@ error_reporting(E_ALL);
 $username = $_GET['username'];
 $password = $_GET['password'];
 
+if (empty($_GET['username'] || !$_GET['password'])) die ('Not given parameter.');
+
 check($username, $password);
 
 function check($username, $password)
